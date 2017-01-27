@@ -1,1 +1,1 @@
-Final project is a simulator of natural selection written in matlab
+A repo where I keep school and side projects
